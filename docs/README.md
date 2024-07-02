@@ -24,5 +24,6 @@ iris_classification_project/
    ```bash
    pip install -r requirements.txt
 
+4. Run the Streamlit application:
 
 streamlit run ui.py
